@@ -1,2 +1,3 @@
 ### Projetos da Dio Digital Innovation One
 #Projetos referente aos estudos na plataforma Dio
+Projetos que estou aprendendo referente , Estrutura básica do display:flex, Prática com display:flex, Estrutura básica do flex direction, Prática com flex direction, Estrutura básica do flex wrap,Prática com flex wrap que estou manipulando imagens, com a Estrutura básica e prática com flex flow estou tentando manipular até vídios, Estrutura básica do justify content,  Prática com justify content - Parte 1 essa esta sendo emocionante,  Prática com justify content - Parte 2 ,   Essa parte estou testando várias vezes para fazer o melhor e diferente, E esse estou aprimorando para  não só para escrituras mais para imagens em qudrinhos para crianças que estão aprendendo a ler.
